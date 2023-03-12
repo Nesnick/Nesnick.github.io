@@ -1,0 +1,22 @@
+#title {
+	font-style: italic;
+	color:black;
+	font-size: 3em;
+	background:purple;
+}
+
+a:hover {
+	color: black;
+}
+
+ul {
+	border-style: dashed;
+	border-width: medium;
+	border-color: purple;
+}
+
+.body {
+	font-style: italic;
+	font-style: 1em;
+	color: black;
+}
